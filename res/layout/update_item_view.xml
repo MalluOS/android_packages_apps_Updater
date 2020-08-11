@@ -34,7 +34,7 @@
                 android:paddingBottom="8sp"
                 android:textColor="?android:attr/textColorPrimary"
                 android:textSize="16sp"
-                tools:text="crDroid 6" />
+                tools:text="MalluOS" />
 
             <TextView
                 android:id="@+id/build_date"
